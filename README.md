@@ -11,18 +11,15 @@
   <a href="https://www.linkedin.com/in/%EB%8F%99%EC%A7%84-%EC%9C%A0-0bb962212" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
+  <a href="https://hhpluscertificateofcompletion.oopy.io/">
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" height="25" alt="linkedin logo" />
+</a>
 </div>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ydj515&show_icons=true" height="220" alt="GitHub stats" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" width="526.87" alt="streak graph"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ydj515&show_icons=true" height="220" alt="GitHub stats"/>
+</p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
