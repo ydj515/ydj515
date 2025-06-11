@@ -15,7 +15,10 @@
 ## career
 
 - **PrompTechnology Research Engineer** *(2020.07 ~ Present)*
-  
+
+## website
+- [단축키 검색 web](https://shortcut-cheatsheet.vercel.app/) : 신입사원 온보딩용으로 만든 프로그램의 단축키를 빠르게 검색할 수 있도록 제작한 웹사이트입니다.
+
 ## article
 
 - [jvm warmup 개선기 2 (feat. coroutine)](https://ydj515.github.io/posts/spring-warmup(2)/)
