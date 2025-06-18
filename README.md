@@ -17,10 +17,11 @@
 - **PrompTechnology Research Engineer** *(2020.07 ~ Present)*
 
 ## website
-- [단축키 검색 web](https://shortcut-cheatsheet.vercel.app/) : 신입사원 온보딩용으로 만든 프로그램의 단축키를 빠르게 검색할 수 있도록 제작한 웹사이트입니다. [크롬확장프로그램](https://chromewebstore.google.com/detail/shortcut-cheatsheet/gnlnjnpgomjmoangnpmbifjjenbnohjl)에서도 확인 가능합니다.
+- [shortcut cheatsheet](https://shortcut-cheatsheet.vercel.app/) : 신입사원 온보딩용으로 만든 프로그램의 단축키를 빠르게 검색할 수 있도록 제작한 웹사이트입니다. [크롬확장프로그램](https://chromewebstore.google.com/detail/shortcut-cheatsheet/gnlnjnpgomjmoangnpmbifjjenbnohjl)에서도 확인 가능합니다.
 
 ## article
 
+- [shortcut cheatsheet 개발후기](https://ydj515.github.io/posts/shortcut-application/)
 - [jvm warmup 개선기 2 (feat. coroutine)](https://ydj515.github.io/posts/spring-warmup(2)/)
 - [spring 배포 후 발생하는 latency원인과 jvm warmup(feat. 부하테스트)](https://ydj515.github.io/posts/spring-warmup/)
 - [postgresql가 mysql보다 좋은점(feat. clustered index)](https://ydj515.github.io/posts/postgresql-clusterd-index/)
