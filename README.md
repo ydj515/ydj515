@@ -16,7 +16,7 @@
 
 - **PrompTechnology Research Engineer** *(2020.07 ~ Present)*
 
-## website
+## deployment
 - [shortcut cheatsheet](https://shortcut-cheatsheet.vercel.app/) : 신입사원 온보딩용으로 만든 프로그램의 단축키를 빠르게 검색할 수 있도록 제작한 웹사이트입니다. [크롬확장프로그램](https://chromewebstore.google.com/detail/shortcut-cheatsheet/gnlnjnpgomjmoangnpmbifjjenbnohjl)에서도 확인 가능합니다.
 
 ## article
