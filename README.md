@@ -7,9 +7,9 @@
   <a href="https://www.linkedin.com/in/%EB%8F%99%EC%A7%84-%EC%9C%A0-0bb962212" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo" />
   </a>
-  <a href="https://hhpluscertificateofcompletion.oopy.io/">
+  <!-- <a href="https://hhpluscertificateofcompletion.oopy.io/">
     <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" height="20" alt="linkedin logo" />
-  </a>
+  </a> -->
 </div>
 
 ## career
