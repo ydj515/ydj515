@@ -21,6 +21,8 @@
 
 - [std naming houd](https://plugins.jetbrains.com/plugin/29937-std-naming-hound) : 사전기반 표준 네이밍 규칙을 빠르게 검색하고, 빌더로 단어/용어를 조합해 SQL 출력까지 지원하는 IntelliJ 플러그인입니다.
 
+- [algo scope](https://algo-scope-one.vercel.app/) : 알고리즘 공부를 이한 자료구조/알고리즘 시각화 학습 도구입니다.
+
 ## article
 
 - [shortcut cheatsheet 개발후기](https://ydj515.github.io/posts/shortcut-application/)
