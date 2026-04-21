@@ -23,11 +23,6 @@
 
 - [algo scope](https://algo-scope-one.vercel.app/) : 알고리즘 공부를 이한 자료구조/알고리즘 시각화 학습 도구입니다.
 
-## contribution
-- [agentgateway](https://github.com/agentgateway/agentgateway/pull/1595) : dashboard bug fix
-- [faker](https://github.com/joke2k/faker/pull/2246) : add automotive provider
-
-
 ## article
 
 - [shortcut cheatsheet 개발후기](https://ydj515.github.io/posts/shortcut-application/)
