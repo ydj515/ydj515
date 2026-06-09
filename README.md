@@ -32,4 +32,3 @@
 - [shortcut cheatsheet 개발후기](https://ydj515.github.io/posts/shortcut-application/)
 - [jvm warmup 개선기 2 (feat. coroutine)](https://ydj515.github.io/posts/spring-warmup(2)/)
 - [spring 배포 후 발생하는 latency원인과 jvm warmup(feat. 부하테스트)](https://ydj515.github.io/posts/spring-warmup/)
-- [postgresql가 mysql보다 좋은점(feat. clustered index)](https://ydj515.github.io/posts/postgresql-clusterd-index/)
