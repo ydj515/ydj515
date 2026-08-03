@@ -18,7 +18,7 @@
 
 ## contribution
 - [agentgateway](https://github.com/agentgateway/agentgateway/pull/1595) : support stateless MCP routes in playground
-- [egovframe-template-simple-backend](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/178) : fix incorrect JPG MIME type handling and improve file streaming
+- [egovframe-template-simple-backend](https://github.com/eGovFramework/egovframe-template-simple-backend/pulls?q=author%3Aydj515) : refactor egovframe-template-simple-backend
 
 ## deployment
 - [std naming houd](https://plugins.jetbrains.com/plugin/29937-std-naming-hound) : 사전기반 표준 네이밍 규칙을 빠르게 검색하고, 빌더로 단어/용어를 조합해 SQL 출력까지 지원하는 IntelliJ 플러그인입니다.
