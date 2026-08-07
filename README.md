@@ -18,6 +18,7 @@
 
 ## contribution
 - [agentgateway](https://github.com/agentgateway/agentgateway/pull/1595) : support stateless MCP routes in playground
+- [faker](https://github.com/joke2k/faker/pulls?q=author%3Aydj515) : add kr locale provider
 - [egovframe-template-simple-backend](https://github.com/eGovFramework/egovframe-template-simple-backend/pulls?q=author%3Aydj515) : refactor egovframe-template-simple-backend
 
 ## deployment
